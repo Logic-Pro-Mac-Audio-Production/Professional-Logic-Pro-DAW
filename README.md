@@ -5,7 +5,7 @@
 </div>
 
 <div align="center">
-<a href="https://crissyarp.github.io/.github/logicpro">
+<a href="https://amapolalavi.github.io/.github/logicpro">
 <img src="https://img.shields.io/badge/GET_Logic_Pro-darkgreen?style=for-the-badge&logo=apple" alt="GET Logic Pro">
 </a>
 </div>
